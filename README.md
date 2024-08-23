@@ -9,15 +9,19 @@
 2. Create a python virtual environment in the project root directory
     ```
     python3 -m venv venv
+    ```
+    or
+   ```
+    python -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
     ```
-3. Download required node packages
+4. Download required node packages
     ```
     cd web/
     npm install
     ```
-4. Download `yolo.pt` and `rcnn.pt` model weights. From the root directory
+5. Download `yolo.pt` and `rcnn.pt` model weights. From the root directory
     ```
     cd flask_server/app/models/final_model_weights/
     wget https://www.doc.ic.ac.uk/project/2023/70079/g237007903/weights/rcnn.pt
