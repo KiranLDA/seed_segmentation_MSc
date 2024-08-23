@@ -1,0 +1,1 @@
+{"val_annotations_name": "tests/flask_server/app/test_result.json", "num_classes": 4, "model_path": null, "class_order": ["Seed", "Interior", "Endosperm", "Internal Void"], "use_gpu": false, "binary_threshold": 0}
