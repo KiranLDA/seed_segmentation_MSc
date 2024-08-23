@@ -1,0 +1,1 @@
+{"use_gpu": false, "fixed_inference_configs_path": "src/mask_rcnn_training/configs/fixed_inference_configs.json"}
