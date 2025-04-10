@@ -1,5 +1,7 @@
 # Software Engineering Group Project
 
+This is the supporting information for Imperial College London MSc student group project by Duffy, G., Gyasi, V., Holmes, A., Morton, A., Roberts, C., Rosen, O., Stoyanov, I., Craven, R., & Dhanjal-Adams, K. L. (2024). Identifying Viable Seeds from X-Rays. Full report is available here with method description https://github.com/KiranLDA/seed_segmentation_MSc/blob/main/Project_report.pdf
+
 ## Requirements
 1. Python >= 3.10 - [Download](https://www.python.org/downloads/)
 2. Node.js >= 20.0 - [Download](https://nodejs.org/en/download)
